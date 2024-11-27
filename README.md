@@ -3,6 +3,7 @@
   ## Hi there 👋, I’m nonlz
   ### AGI Researcher & AI Developer
 
+  [![GitHub followers](https://img.shields.io/github/followers/nonlz?style=social)](https://github.com/nonlz)
   ![Profile Views](https://komarev.com/ghpvc/?username=nonlz&color=blueviolet)
 <!--
 **nonlz/nonlz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
