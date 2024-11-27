@@ -1,6 +1,6 @@
 <div align="center">
   
-  ## Hi there 👋, I’m nonlz
+  # Hi there 👋, I’m nonlz
   ### AGI Researcher & AI Developer
 
   ![](https://img.shields.io/badge/Focus-Artificial_General_Intelligence-BE2EDD)
